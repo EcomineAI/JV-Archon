@@ -1,4 +1,14 @@
 # JV-Archon  
+**Built, optimized, and controlled by jv.**  
+**BY ECOMINEAI**
+
+![Creator](https://img.shields.io/badge/Creator-ECOMINEAI-blue)
+![Engine](https://img.shields.io/badge/Project-JV--Archon-purple)
+![Mode](https://img.shields.io/badge/Type-Personal%20LLM%20Ecosystem-green)
+![Local](https://img.shields.io/badge/Offline-Ready-orange)
+
+
+# JV-Archon  
 Built, optimized, and controlled by jv.  
 BY ECOMINEAI
 
