@@ -17,7 +17,9 @@
 ![Engine](https://img.shields.io/badge/Project-JV--Archon-purple)
 ![Mode](https://img.shields.io/badge/Type-Personal%20LLM%20Ecosystem-green)
 ![Local](https://img.shields.io/badge/Offline-Ready-orange)
-
+![GitHub stars](https://img.shields.io/github/stars/EcomineAI/JV-Archon)
+![GitHub forks](https://img.shields.io/github/forks/EcomineAI/JV-Archon)
+![GitHub license](https://img.shields.io/github/license/EcomineAI/JV-Archon)
 
 # JV-Archon  
 Built, optimized, and controlled by jv.  
